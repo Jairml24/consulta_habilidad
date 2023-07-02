@@ -3,4 +3,5 @@
 </head>
 <html>
 	<h1>Pagina inicio</h1>
+	<p>Foto</p>
 </html>
