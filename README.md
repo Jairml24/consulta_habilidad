@@ -1,2 +1,0 @@
-# git
-#generado desde github
